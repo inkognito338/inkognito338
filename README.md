@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm inkognito338</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/inkognito338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inkognito338" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/inkognito338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCluzKTwcjLsewSAKH_bPnSg" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/XxzR6uuMtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XxzR6uuMtw" height="30" width="40" /></a>
 </p>
 
