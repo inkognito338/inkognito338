@@ -1,5 +1,5 @@
-• IP UltraMc.joinserver.xyz (1.7-1.25)\
-• https://discord.ultramc.xyz/  
+• IP UltraMc.top (1.7-26.1)\
+• https://discord.ultramc.top/  
   
 
 <br/>  
